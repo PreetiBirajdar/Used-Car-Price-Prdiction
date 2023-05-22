@@ -5,10 +5,14 @@ This project focuses on predicting the prices of used cars using linear regressi
 
 
 Project Overview
+
+
 In this project, we explore a dataset of used car listings, which includes information such as the car's make, model, year, mileage, fuel type, transmission, and more. The dataset provides a valuable resource for training and evaluating a linear regression model to predict car prices.
 
 
 Objectives
+
+
 The main objectives of this project are as follows:
 1. Understand and analyze the used car dataset, including its features and target variable.
 2. Preprocess and clean the dataset, handling missing values and transforming categorical variables as necessary.
@@ -21,6 +25,8 @@ The main objectives of this project are as follows:
 
 
 Technologies and Tools Used
+
+
 The following technologies and tools were utilized for this project:
 1. Python: Programming language used for data analysis, modeling, and implementation.
 2. Colab Notebook: Interactive environment for running code and documenting the analysis.
@@ -31,6 +37,8 @@ The following technologies and tools were utilized for this project:
 
 
 Results and Findings
+
+
 The results and findings of the used car price prediction project using linear regression are summarized as follows:
 1. Evaluation of the model's performance, including metrics such as mean squared error (MSE) and R-squared.
 2. Identification of the most important features influencing the predicted car prices.
